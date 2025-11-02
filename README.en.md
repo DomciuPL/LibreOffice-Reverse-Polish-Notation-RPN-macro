@@ -272,12 +272,10 @@ End Sub
 
 ```text
 .
-├── README.md         # Polish version
+├── README.pl.md      # Polish version
 ├── README.en.md      # this file
 ├── src
 │   └── rpn_macro.bas
-└── examples
-    └── rpn_examples.ods
 ```
 
 ## License
